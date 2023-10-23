@@ -1,0 +1,5 @@
+# O prettier a partir da versão 3.0.0 mudou o seu comportamento
+# e por padrão está utilizando o conteúdo dentro do .gitignore
+# para também ignorar o linting de estilização
+#
+#.next
